@@ -34,7 +34,6 @@ To get a local copy up and running follow these simple example steps.
 [DEMO](https://goliviernation.github.io/mobileportfolio)
 
 
-
 ## Author
 
 👤 **Olivier**
