@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-[Click here to view web]( https://kayonga99.github.io/portfolio/)
+[DEMO](https://goliviernation.github.io/mobileportfolio/)
 
 
 
