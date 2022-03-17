@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-[DEMO](https://goliviernation.github.io/mobileportfolio/)
+[DEMO](https://goliviernation.github.io/mobileportfolio)
 
 
 
